@@ -1,5 +1,5 @@
 {
-    "token": "ODkzNjYzNTc0NjA0NTI5Njc0.YVevDw.D_uDBC3vXmOxXGJ7Y1oXZAYvhvY",
+    "token": "Your Bots Token",
     "prefix": "-",
-    "mongooseConnectionString": "mongodb+srv://user1:Lx1BKRzuXbPdy0HE@cluster0.bja0q.mongodb.net/TrickOrDiscord?retryWrites=true&w=majority"
+    "mongooseConnectionString": "Your MongoURI"
 }
